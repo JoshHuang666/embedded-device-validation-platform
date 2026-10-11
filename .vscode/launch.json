@@ -1,0 +1,9 @@
+{
+  "version": "0.2.0",
+  "configurations": [{
+    "name":"Debug device_sim (WSL)","type":"cppdbg","request":"launch",
+    "program":"${workspaceFolder}/build/device_sim","cwd":"${workspaceFolder}",
+    "MIMode":"gdb","miDebuggerPath":"/usr/bin/gdb","stopAtEntry":true,
+    "externalConsole":false,"preLaunchTask":"build-debug"
+  }]
+}

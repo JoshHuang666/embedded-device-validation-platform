@@ -1,0 +1,17 @@
+build*/
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+*.log
+
+stage2-backup-*/
+
+stage3-backup-*/
+
+build/
+
+build-*/
+
+week1-backup-*/
+week1-evidence-*/
